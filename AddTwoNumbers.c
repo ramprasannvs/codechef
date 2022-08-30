@@ -12,7 +12,6 @@ int main() {
 		// Compute the ans.
 		int ans = a + b;
 		printf("%d\n", ans);
-		T --;
 	}
 
 	return 0;
